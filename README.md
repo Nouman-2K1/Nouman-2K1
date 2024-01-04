@@ -5,20 +5,14 @@ I'm Muhammad Noman, a passionate Software Engineer (JavaScript) currently diving
 
 ## About Me
 
-- 🔭 I'm currently working on honing my skills in React, Node, and Cloud technologies.
-- 📝 I occasionally write articles on my [blog](http://blog.talhabalaj.com).
+- 🔭 I'm currently working on honing my skills in React, Node, and Cloud technologies 
 - 💬 Ask me about anything related to React, Node, and Cloud.
 
 ## Connect with Me
 
-- 📫 You can reach me at [hey@talhabalaj.com](mailto:hey@talhabalaj.com).
-- 🌐 Check out my blog: [blog.talhabalaj.com](https://blog.talhabalaj.com)
+- 📫 You can reach me at [m.nouman.nomi@gmail.com](mailto:m.nouman.nomi@gmail.com). 
 - 🐦 Follow me on Twitter: [@talhabalaj](https://twitter.com/talhabalaj)
 - 📷 Connect with me on LinkedIn: [talha_balaj](https://www.linkedin.com/in/talha_balaj/)
-
-## Recent Blog Posts
-
-- [Setup Visual Studio Code for Multi-File C++ Projects](https://blog.talhabalaj.com/setup-visual-studio-code-cpp)
 
 ## Languages and Tools
 
