@@ -11,8 +11,8 @@ I'm Muhammad Noman, a passionate Software Engineer (JavaScript) currently diving
 ## Connect with Me
 
 - 📫 You can reach me at [m.nouman.nomi@gmail.com](mailto:m.nouman.nomi@gmail.com). 
-- 🐦 Follow me on Twitter: [@talhabalaj](https://twitter.com/talhabalaj)
-- 📷 Connect with me on LinkedIn: [talha_balaj](https://www.linkedin.com/in/talha_balaj/)
+- 🐦 Follow me on Twitter: [@Noman29888299](https://twitter.com/Noman29888299)
+- 📷 Connect with me on LinkedIn: [muhammad_noman](https://www.linkedin.com/in/muhammad-noman-17baa21b0/)
 
 ## Languages and Tools
 
