@@ -1,18 +1,18 @@
 
-# Hi there! 👋
+# Hi there! 
 
-I'm Muhammad Noman, a passionate Software Engineer (JavaScript) currently diving into the world of Microservices with Node JS and React. 🌱
+I'm Muhammad Noman, a passionate Software Engineer (JavaScript) currently diving into the world of Microservices with Node JS and React. 
 
 ## About Me
 
-- 🔭 I'm currently working on honing my skills in React, Node, and Cloud technologies 
-- 💬 Ask me about anything related to React, Node, and Cloud.
+-  I'm currently working on honing my skills in React, Node, and Cloud technologies 
+-  Ask me about anything related to React, Node, and Cloud.
 
 ## Connect with Me
 
-- 📫 You can reach me at [m.nouman.nomi@gmail.com](mailto:m.nouman.nomi@gmail.com). 
-- 🐦 Follow me on Twitter: [@Noman29888299](https://twitter.com/Noman29888299)
-- 📷 Connect with me on LinkedIn: [muhammad_noman](https://www.linkedin.com/in/muhammad-noman-17baa21b0/)
+-  You can reach me at [m.nouman.nomi@gmail.com](mailto:m.nouman.nomi@gmail.com). 
+-  Follow me on Twitter: [@Noman29888299](https://twitter.com/Noman29888299)
+-  Connect with me on LinkedIn: [muhammad_noman](https://www.linkedin.com/in/muhammad-noman-17baa21b0/)
 
 ## Languages and Tools
 
@@ -28,7 +28,7 @@ I'm Muhammad Noman, a passionate Software Engineer (JavaScript) currently diving
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 
-## Let's Connect and Code Together! 🚀
+## Let's Connect and Code Together! 
 
 <!--
 **Nouman-2K1/Nouman-2K1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
