@@ -3,7 +3,6 @@
 
 I'm Muhammad Noman, a passionate Software Engineer (JavaScript) currently diving into the world of Microservices with JS, its frameworks and libraries . 
 
-
 ## Connect with Me
 
 -  You can reach me at [m.nouman.nomi@gmail.com](mailto:m.nouman.nomi@gmail.com). 
@@ -15,7 +14,7 @@ I'm Muhammad Noman, a passionate Software Engineer (JavaScript) currently diving
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-![ReactNative](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![ReactNative](https://img.shields.io/badge/-ReactNative-61DAFB?logo=react&logoColor=white&style=flat)
 ![Nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
